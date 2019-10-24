@@ -31,7 +31,7 @@ L["Invite Keyword"] = "邀请关键字"
 L["Autoinvite"] = "自动邀请"
 L["Hide Minimap Icon"] = "隐藏小地图图标"
 L["RolesArray"] = {
-    "",
+    "T",
     "dps",
     "输出",
     "治疗",
